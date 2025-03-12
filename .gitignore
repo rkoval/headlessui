@@ -23,8 +23,8 @@
 /playgrounds/**/out/
 
 # production
-/dist
-/packages/**/dist
+# /dist
+# /packages/**/dist
 /playgrounds/**/dist
 
 # misc
